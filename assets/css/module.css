@@ -321,9 +321,11 @@ button,
 
 .icon {
     text-decoration: none;
+    
 }
 
     .icon:before {
+        position: fixed;
         display: inline-block;
         font-family: FontAwesome;
         font-size: 1.25em;
