@@ -24,11 +24,11 @@ Actual time needed to complete: 3ish Hours
 
 
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #1: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2hr
 
-Start time: _____
+Start time: 10:30
 
 Finish time: _____
 
